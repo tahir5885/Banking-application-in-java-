@@ -1,8 +1,7 @@
-# Banking-application-in-java-
 import java.util.Scanner;
 public class BankingApplication{
     public static void main(String[] args){
-        BankAccount obj1 = new BankAccount("shaban","12113671");
+        BankAccount obj1 = new BankAccount("Mohammad Tahir","12116143");
         obj1.showMenu();
     }
 }
